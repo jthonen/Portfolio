@@ -1,4 +1,9 @@
-body {
-    background-image: url("assets/images/stock.png");
-    
+.container {
+    margin-top: 275px;
+    margin-left: 75px;
+} 
+.fas, .fab, .far{
+    padding: 5px;
+    font-size: 36px;
+    color: black;
 }
